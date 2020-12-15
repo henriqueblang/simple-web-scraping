@@ -1,5 +1,4 @@
 import time
-# pip install txml something like that
 import pandas as pd
 
 from bs4 import BeautifulSoup
